@@ -32,4 +32,4 @@ Digital Banking System is a Java-based banking application developed using **Cor
 4. Run `Main.java`.
 
 ## Author
-**Kipu Kavya**
+**Kiapu Kavya**
